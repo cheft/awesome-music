@@ -19,8 +19,8 @@ function getPlayer() {
 function genDoc() {
   var player = getPlayer()
   var doc = ''
-  doc += '![' + player.title + '](' + player.cover + ')'
-  doc += '\n## ' + player.title + '\n'
+  doc += '## ' + player.title + '\n'
+  doc += '\n![' + player.title + '](' + player.cover + ')\n'
   player.musics.forEach(function(m) {
     doc += '\n' + m.index + '. ' + m.name + ' `' + m.by + '`'
   })

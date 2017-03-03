@@ -1,14 +1,15 @@
-## 工作之余，倾听音乐
+## 收集好的音乐，工作之余倾听
 > 在 console 中针对每个iframe获取音乐，形成以下列表
+
 * 一人一首经典
 * 许冠杰
 * 胡伟立 热门50单曲
 * cheft喜欢的音乐
 
 
+### 一人一首经典
 
 ![一人一首经典](http://p3.music.126.net/s1LIhiXDOvP5GvKhiApY-g==/6648746813790486.jpg?param=90y90)
-### 一人一首经典
 
 1. 2002年的第一场雪 `刀郎`
 2. 爱 `小虎队`
@@ -222,8 +223,9 @@
 210. 最炫民族风(Live) `凤凰传奇`
 
 
-![许冠杰](http://p3.music.126.net/i3M4SFF0lSZ0GJpJ1te9pQ==/123145302311806.jpg?param=90y90)
 ### 许冠杰
+
+![许冠杰](http://p3.music.126.net/i3M4SFF0lSZ0GJpJ1te9pQ==/123145302311806.jpg?param=90y90)
 
 1. 恭喜!恭喜! `许冠杰`
 2. 长春不老 `许冠杰`
@@ -297,8 +299,9 @@
 70. 双星情歌 `许冠杰`
 
 
-![胡伟立 热门50单曲](http://p4.music.126.net/qHKvdeYzTqIOxcGKnrfaPQ==/72567767449767.jpg?param=90y90)
 ### 胡伟立 热门50单曲
+
+![胡伟立 热门50单曲](http://p4.music.126.net/qHKvdeYzTqIOxcGKnrfaPQ==/72567767449767.jpg?param=90y90)
 
 1. 傲气傲笑万重浪(终曲) `胡伟立`
 2. 市集 `胡伟立`
@@ -352,8 +355,9 @@
 50. 抒情主题 `胡伟立`
 
 
-![cheft喜欢的音乐](http://p4.music.126.net/H-NRHdZc5VMmjmkve1CNKg==/3273246117382650.jpg?param=90y90)
 ### cheft喜欢的音乐
+
+![cheft喜欢的音乐](http://p4.music.126.net/H-NRHdZc5VMmjmkve1CNKg==/3273246117382650.jpg?param=90y90)
 
 1. 等你等到我心痛 `张学友`
 2. 应该要自爱 `许冠杰`
@@ -374,5 +378,4 @@
 17. 真真假假 `张卫健`
 18. 小李飞刀 `罗文`
 19. 情感的禁区 `刘德华`
-
 
